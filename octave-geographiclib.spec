@@ -9,7 +9,7 @@ Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/geographiclib/
 #Source0:	https://github.com/geographiclib/geographiclib-octave/archive/v%{version}/geographiclib-octave-%{version}.tar.gz
 Url:		https://github.com/geographiclib/geographiclib-octave
-Source0:	https://sourceforge.net/projects/geographiclib/files/distrib-Octave/geographiclib-octave-%{version}.tar.gz
+Source0:	https://downloads.sourceforge.net/geographiclib/distrib-Octave/geographiclib-octave-%{version}.tar.gz
 
 BuildRequires:  octave-devel >= 4.0.0
 
