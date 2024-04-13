@@ -2,7 +2,7 @@
 
 Summary:	Octave/MATLAB implementation of GeographicLib
 Name:		octave-geographiclib
-Version:	2.0
+Version:	2.2
 Release:	1
 License:	MIT
 Group:		Sciences/Mathematics
