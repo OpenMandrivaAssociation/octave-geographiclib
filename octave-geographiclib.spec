@@ -2,8 +2,8 @@
 
 Summary:	Octave/MATLAB implementation of GeographicLib
 Name:		octave-geographiclib
-Version:	2.3.3
-Release:	2
+Version:	2.5
+Release:	1
 License:	MIT
 Group:		Sciences/Mathematics
 #Url:		https://packages.octave.org/geographiclib/
@@ -41,7 +41,7 @@ Key components of this toolbox are:
 #---------------------------------------------------------------------------
 
 %prep
-%autosetup -p1 -n %{octpkg}-octave-%{version}
+%autosetup -p1 -n geographiclib-octave-2.5
 
 %build
 %octave_pkg_build
